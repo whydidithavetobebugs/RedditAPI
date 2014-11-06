@@ -1,0 +1,2 @@
+d:\users\joe\documents\visual studio 2013\Projects\RedditAPI\RedditAPI\bin\Debug\RedditAPI.exe.config
+D:\Users\Joe\Documents\GitHub\shiny-octo-bear\RedditAPI\RedditAPI\bin\Debug\RedditAPI.exe.config
